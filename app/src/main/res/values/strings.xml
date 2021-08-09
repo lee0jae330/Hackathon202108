@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hackathon202108</string>
+
+    <string-array name="rangeSliderValues" >
+    <item>20</item>
+    <item>70</item>
+    </string-array>
+</resources>
